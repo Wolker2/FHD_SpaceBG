@@ -1,0 +1,37 @@
+Bm ^{
+    BGO ^{
+        bg00=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg00.gai
+        bg01=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg01.gai
+        bg02=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg02.gai
+        bg03=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg03.gai
+        bg04=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg04.gai
+        bg05=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg05.gai
+        bg06=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg06.gai
+        bg07=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg07.gai
+        bg08=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg08.gai
+        bg09=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg09.gai
+        bg10=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg10.gai
+        bg11=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg11.gai
+        bg12=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg12.gai
+        bg13=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg13.gai
+        bg14=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg14.gai
+        bg15=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg15.gai
+        bg50=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg50.gai
+        bg51=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg51.gai
+        bg52=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg52.gai
+        bg53=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg53.gai
+        bg54=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg54.gai
+        bg55=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg55.gai
+        bg70=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg70.gai
+        bg71=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg71.gai
+        bg72=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg72.gai
+        bg79=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg79.gai
+        bg80=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg80.gai
+        bg81=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg81.gai
+        bg82=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg82.gai
+        bg83=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg83.gai
+        bg84=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg84.gai
+        bg85=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg85.gai
+        bg86=Mods\FHD_MODS\FHD_SpaceBG\DATA\BGObj\bg86.gai
+    }
+}

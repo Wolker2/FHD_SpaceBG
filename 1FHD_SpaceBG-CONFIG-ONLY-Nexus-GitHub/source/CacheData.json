@@ -1,0 +1,189 @@
+{
+  "format": "cachedata",
+  "seed": -281508522,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "Bm",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "BGO",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "bg00",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg00.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg01",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg01.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg02",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg02.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg03",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg03.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg04",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg04.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg05",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg05.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg06",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg06.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg07",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg07.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg08",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg08.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg09",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg09.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg10",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg10.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg11",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg11.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg12",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg12.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg13",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg13.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg14",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg14.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg15",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg15.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg50",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg50.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg51",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg51.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg52",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg52.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg53",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg53.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg54",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg54.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg55",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg55.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg70",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg70.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg71",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg71.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg72",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg72.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg79",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg79.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg80",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg80.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg81",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg81.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg82",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg82.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg83",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg83.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg84",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg84.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg85",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg85.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bg86",
+                    "value": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg86.gai"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

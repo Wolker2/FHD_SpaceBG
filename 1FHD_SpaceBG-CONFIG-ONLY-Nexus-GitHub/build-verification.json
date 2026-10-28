@@ -1,0 +1,228 @@
+{
+  "source_reconstruction": "passed",
+  "checks_passed": 7,
+  "checks": [
+    "Both supplied files rebuild with original SHA-256 from editable source inputs",
+    "DAT checksum, decompression and complete typed parse/encode roundtrip",
+    "Original UTF-16LE BOM retained",
+    "Metadata encoding and line endings preserved",
+    "All 33 references audited; all 33 GAI assets absent from upload",
+    "Incomplete source upload is not reported as a complete mod",
+    "Strict completeness gate refuses a full-resource build"
+  ],
+  "resource_completeness": {
+    "status": "incomplete",
+    "full_mod_ready": false,
+    "references": [
+      {
+        "alias": "Bm.BGO.bg00",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg00.gai",
+        "relative_path": "DATA/BGObj/bg00.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg01",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg01.gai",
+        "relative_path": "DATA/BGObj/bg01.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg02",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg02.gai",
+        "relative_path": "DATA/BGObj/bg02.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg03",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg03.gai",
+        "relative_path": "DATA/BGObj/bg03.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg04",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg04.gai",
+        "relative_path": "DATA/BGObj/bg04.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg05",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg05.gai",
+        "relative_path": "DATA/BGObj/bg05.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg06",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg06.gai",
+        "relative_path": "DATA/BGObj/bg06.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg07",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg07.gai",
+        "relative_path": "DATA/BGObj/bg07.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg08",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg08.gai",
+        "relative_path": "DATA/BGObj/bg08.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg09",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg09.gai",
+        "relative_path": "DATA/BGObj/bg09.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg10",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg10.gai",
+        "relative_path": "DATA/BGObj/bg10.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg11",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg11.gai",
+        "relative_path": "DATA/BGObj/bg11.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg12",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg12.gai",
+        "relative_path": "DATA/BGObj/bg12.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg13",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg13.gai",
+        "relative_path": "DATA/BGObj/bg13.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg14",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg14.gai",
+        "relative_path": "DATA/BGObj/bg14.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg15",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg15.gai",
+        "relative_path": "DATA/BGObj/bg15.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg50",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg50.gai",
+        "relative_path": "DATA/BGObj/bg50.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg51",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg51.gai",
+        "relative_path": "DATA/BGObj/bg51.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg52",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg52.gai",
+        "relative_path": "DATA/BGObj/bg52.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg53",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg53.gai",
+        "relative_path": "DATA/BGObj/bg53.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg54",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg54.gai",
+        "relative_path": "DATA/BGObj/bg54.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg55",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg55.gai",
+        "relative_path": "DATA/BGObj/bg55.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg70",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg70.gai",
+        "relative_path": "DATA/BGObj/bg70.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg71",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg71.gai",
+        "relative_path": "DATA/BGObj/bg71.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg72",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg72.gai",
+        "relative_path": "DATA/BGObj/bg72.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg79",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg79.gai",
+        "relative_path": "DATA/BGObj/bg79.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg80",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg80.gai",
+        "relative_path": "DATA/BGObj/bg80.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg81",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg81.gai",
+        "relative_path": "DATA/BGObj/bg81.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg82",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg82.gai",
+        "relative_path": "DATA/BGObj/bg82.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg83",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg83.gai",
+        "relative_path": "DATA/BGObj/bg83.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg84",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg84.gai",
+        "relative_path": "DATA/BGObj/bg84.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg85",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg85.gai",
+        "relative_path": "DATA/BGObj/bg85.gai",
+        "included_in_supplied_payload": false
+      },
+      {
+        "alias": "Bm.BGO.bg86",
+        "target": "Mods\\FHD_MODS\\FHD_SpaceBG\\DATA\\BGObj\\bg86.gai",
+        "relative_path": "DATA/BGObj/bg86.gai",
+        "included_in_supplied_payload": false
+      }
+    ],
+    "missing_background_files": 33,
+    "optional_fon_folder_supplied": false
+  },
+  "runtime_sha256": {
+    "CFG/CacheData.dat": "7566d837dab4608cee77327816ea9dbd26913dd43aa28abf06489c8164128ffb",
+    "ModuleInfo.txt": "13916a360549b16c868b2c42c8f888f5b1ca4b10abb5d34a56dbfe1d2b526216"
+  },
+  "live_game_executed": false,
+  "environment": {
+    "python": "3.12.14",
+    "zlib": "1.3.2"
+  }
+}

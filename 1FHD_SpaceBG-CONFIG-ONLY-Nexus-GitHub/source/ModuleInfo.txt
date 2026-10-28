@@ -1,0 +1,16 @@
+Name=FHD_SpaceBG
+Section=FHD_MODS
+Author=Prolog_D
+Priority=99
+Languages=Rus,Eng
+Conflict=SkyBG,PolarLights
+Conflict=
+SmallDescription=25 Новых фонов систем c разрешением 3000х2048 + папка с 74 фонами
+SmallDescription=(Мод можно <color=0,150,15>подключать</color>/<color=150,0,15>отключать</color> в любое время игры)
+FullDescription=Все звездные системы получили новые обновленные фоны, которые значительно улучшают общее восприятие игровой атмосферы. Также добавлена папка с 74 дополнительными фонами, чтобы каждый мог выбрать оформление по своему вкусу. <color=200,0,0>Как установить:</color> <color=0,0,255>Откройте папку:</color> <color=0,170,0>mods <color=200,0,0>-></color> FHD_MODS <color=200,0,0>-></color> FHD_SpaceBG <color=200,0,0>-></color> DATA <color=200,0,0>-></color> FON.</color> Выберите понравившийся фон. Переименуйте его в то же название, что и у фона, который хотите заменить. Скопируйте файл с заменой в папку <color=0,170,0>BGObj.</color>
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= ------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+Languages=Eng,Rus
+SmallDescription=25 New System Backgrounds 3000х2048 + Folder with 74 backgrounds
+SmallDescription=(The mod can be <color=0,150,15>enabled</color>/<color=150,0,15>disabled</color> at any time during the game)
+FullDescription=All star systems have received new updated backgrounds that significantly improve the overall atmosphere of the game. A folder with 74 additional backgrounds has also been added, so everyone can choose the look they prefer. <color=200,0,0>How to install:</color> <color=0,0,255>Open the folder:</color> <color=0,170,0>mods <color=200,0,0>-></color> FHD_MODS <color=200,0,0>-></color> FHD_SpaceBG <color=200,0,0>-></color> DATA <color=200,0,0>-></color> FON.</color> Choose the background you like. Rename it to the same name as the background you want to replace. Copy the file with replacement into the <color=0,170,0>BGObj.</color> folder.
